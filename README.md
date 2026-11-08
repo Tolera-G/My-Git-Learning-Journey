@@ -83,7 +83,7 @@ My-Git-and-GitHub-Learning-Journey/
 ## Progress
 
 - [x] Phase 1 — Git Fundamentals
-- [ ] Phase 2 — Working with Local Git
+- [x] Phase 2 — Working with Local Git
 - [ ] Phase 3 — GitHub Foundations
 - [ ] Phase 4 — Remote Repositories
 - [ ] Phase 5 — Branching and Team Collaboration
